@@ -2,8 +2,8 @@
 ### 🚀  Data Enthusiast  
 
 🌍 Based in Nagpur, India  
-🎓 B.Tech in Computer Science (88.3%)  
-📊 PG-Diploma in Big Data Analytics (CDAC Mumbai)  
+🎓 B.Tech in Computer Science from S.B Jain Institute of Technology, Nagpur (88.3%)   
+📊 PG-Diploma in Big Data Analytics from CDAC, Mumbai (70.31%)  
 
 ---
 
